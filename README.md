@@ -14,3 +14,4 @@ Logistic regression is a statistical method used for binary classification. It m
 - Dataset - DMV Written Tests, Accuracy - 89%
 - https://www.kaggle.com/datasets/lunaticmaestro/dmv-written-test
 
+[2021]
